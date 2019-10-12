@@ -1,0 +1,3 @@
+feature.py : Feature extraction done in 2 forms
+lr.py: Implementation of Binary Logistic regression with Stochastic Gradient Descent
+
