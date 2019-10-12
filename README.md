@@ -1,2 +1,2 @@
 # Machine-Learning-Programs
-Machine Learning Assignments to showcase understanding of algorithms and implementations
+Machine Learning Assignments at CMU to showcase understanding of algorithms and implementations
