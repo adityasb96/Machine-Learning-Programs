@@ -1,3 +1,5 @@
-feature.py : Feature extraction done in 2 forms
-lr.py: Implementation of Binary Logistic regression with Stochastic Gradient Descent
+Basic NLP program with feature extraction and Binary logistic regression with Stochastic Gradient Descent
+
+feature.py : Returns .tsv with 
+lr.py: Implementation of LR
 
